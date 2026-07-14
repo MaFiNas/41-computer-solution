@@ -1,0 +1,9 @@
+{
+  "name": "41 COMPUTER Solution & Technology",
+  "short_name": "41 COMPUTER",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#2563eb",
+  "icons": []
+}

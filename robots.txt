@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mafinas.github.io/41-computer-solution/sitemap.xml
